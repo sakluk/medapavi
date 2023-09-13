@@ -1,5 +1,4 @@
-# medapavi
-Measurement data processing and visualization - project
+# MeDaPAVi - Measurement data processing and visualization - project
 
 The aim of this repository is to provide necessary background information and tools for the course Measurement data processing and visualization project which is implemented for the second year students specializing in Health Technology at School of ICT at Metropolia University of Applied Sciences.
 
